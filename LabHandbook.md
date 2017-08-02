@@ -1,5 +1,5 @@
 # TRUSTworthy Data Engineering Laboratory Handbook
-## V1.0
+## rev 2017/08/01
 
 In an effort to help new students and laboratory members understand the culture,
 expectations, and code of conduct, the lab has decided to publish this handbook.
