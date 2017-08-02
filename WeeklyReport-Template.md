@@ -10,7 +10,9 @@ Use this section to give a short list of necessary action items for your weekly 
 and discussions which you need to accomplish during the meeting.
 
 [ ] Discuss topic X that is confusing me.
+
 [ ] Obtain signature on form Y.
+
 [ ] Discuss plans for Z.
 
 ## Objectives
@@ -26,8 +28,11 @@ concretely deliver by this date.  Do not make changes to your deliverables here,
 items which were completed.
 
 [X] Ran tests and debugging for module X.
+
 [X] Checked in code for module X, and merged to dev branch.
+
 [X] Completed literature survey on topic Y.
+
 [X] Submitted personal statement for fellowship Z.
 
 ## Road Blocks
