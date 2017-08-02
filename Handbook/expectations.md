@@ -17,7 +17,7 @@ expect to contribute a full 40 hours a week towards this joint work.
 Satisfactory progress towards both of these two main areas will be evaluated three times yearly with your advisor in the
 laboratory, using a progress of trimester planning and evaluation.  At the beginning of each trimester (corresponding to the
 Fall, Spring, and first Summer sessions of the academic year) you will meet with your advisor and complete a trimester
-plan using the following [template](../master/Templates/TrimesterPlan-Template.md).  If you have been with the lab for more
+plan using the following [template](../../master/Templates/TrimesterPlan-Template.md).  If you have been with the lab for more
 than one trimester, you will also review progress and goals from the last trimester, and you will be evaluated by the lab
 PI, Dr. Eric Rozier, who will give you a rating of **Satisfactory Progress**, **Insufficient Progress**, or **Unsatisfactory Progress**.  A rating of **Satisfactory** indicates your performance has met or exceeded expectations.  **Insufficient**
 indicates and acknowledges that some progress was made, but insufficient to maintain the proposed plan of study, or
@@ -32,7 +32,7 @@ In order to help students continue to make progress, and to help inform them of 
 progress in advance of the trimester review, each student will have a weekly meeting with PI Dr. Eric Rozier.  During
 this meeting discussion will be about progress over the prior week, road blocks to progress, questions, and schedules.
 
-**Before meeting all students are required to fill out and send a [Weekly Progress Report](../master/Templates/WeeklyReport-Template.md)**.  **Failure to send this report at least 24 hours in advance of the scheduled weekly meeting will lead to the
+**Before meeting all students are required to fill out and send a [Weekly Progress Report](../../master/Templates/WeeklyReport-Template.md)**.  **Failure to send this report at least 24 hours in advance of the scheduled weekly meeting will lead to the
 cancelation of the meeting.**  These meetings are important for your progress, and expected on a weekly basis.  If the PI
 is unavailable during a given week, the meeting will be rescheduled as appropriate, but the weekly report is still expected
 by the original due date.  If you need to reschedule a meeting due to a conflict, you should do so at the earliest possible
