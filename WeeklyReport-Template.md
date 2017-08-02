@@ -1,7 +1,8 @@
 # Weekly Progress Report
 
-| **Name** | John Q. Public |
-| **Week Begining** | 2017/07/31 |
+| Name | Week Beginning |
+| --- | --- |
+| John Q. Public | 2017/07/31 |
 
 ## Action Items
 
