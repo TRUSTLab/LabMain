@@ -22,12 +22,12 @@ by ISU or COM S policy, those policies prevail.
 
 ## Sections
 
-* [What We Stand For](../blob/master/Handbook/what-we-stand-for.md)
-* [Expectations](../blob/master/Handbook/expectations.md)
-* [Research and Development Culture](../blob/master/Handbook/research-and-development-culture.md)
-* [Weekly Seminars and Deep Dives](../blob/master/Handbook/weekly-seminars-and-deep-dives.md)
-* [Trimester Plans and Reviews](../blob/master/Handbook/trimester-plans-and-reviews.md)
-* [Weekly Progress Reports](../blob/master/Handbook/weekly-progress-reports.md)
-* [Travel and Reimbursement](../blob/master/Handbook/travel-and-reimbursement.md)
-* [Vacation and Time-off](../blob/master/Handbook/vacation-and-time-off.md)
-* [FAQ](../blob/master/Handbook/faq.md)
+* [What We Stand For](../master/Handbook/what-we-stand-for.md)
+* [Expectations](../master/Handbook/expectations.md)
+* [Research and Development Culture](../master/Handbook/research-and-development-culture.md)
+* [Weekly Seminars and Deep Dives](../master/Handbook/weekly-seminars-and-deep-dives.md)
+* [Trimester Plans and Reviews](../master/Handbook/trimester-plans-and-reviews.md)
+* [Weekly Progress Reports](../master/Handbook/weekly-progress-reports.md)
+* [Travel and Reimbursement](../master/Handbook/travel-and-reimbursement.md)
+* [Vacation and Time-off](../master/Handbook/vacation-and-time-off.md)
+* [FAQ](../master/Handbook/faq.md)
