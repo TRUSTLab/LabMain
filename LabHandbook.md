@@ -23,6 +23,7 @@ by ISU or COM S policy, those policies prevail.
 ## Sections
 
 * [What We Stand For](../master/Handbook/what-we-stand-for.md)
+* [Code of Conduct](../master/Handbook/code-of-conduct.md)
 * [Expectations](../master/Handbook/expectations.md)
 * [Research and Development Culture](../master/Handbook/research-and-development-culture.md)
 * [Weekly Seminars and Deep Dives](../master/Handbook/weekly-seminars-and-deep-dives.md)
