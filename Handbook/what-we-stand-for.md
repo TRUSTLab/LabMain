@@ -4,7 +4,7 @@ The Trustworthy Data Engineering Laboratory is committed to advancing the curren
 the art in Computer Science, Data Science, and Data Engineering by addressing problems at
 the confluence of data, analytics, infrastructure, privacy, and social good.  We are made up of
 a mixture of professional and volunteers from diverse backgrounds, working on every aspect of our mission
-- including mentorship, education, and connection people to solutions in this important area of work.
+including mentorship, education, and connection people to solutions in this important area of work.
 
 Our long-term, overarching, and unifying goal is to enable people to overcome problems they face in
 data and computing, and to ensure that our lab members enter the world better equipped to handle the
