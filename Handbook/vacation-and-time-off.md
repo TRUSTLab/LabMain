@@ -2,7 +2,13 @@
 
 Graduate students and members of the lab are expected to continue to make forward progress on their research at all times.
 Students are expected to make a minimum of 20 hours of progress towards their degree requirements a week, and 20 hours
-of progress towards deliverables and objectives dictated by their assistantships.  Graduate students do not accrue sick leave or vacation hours, and the ISU graduate student handbook states:
+of progress towards deliverables and objectives dictated by their assistantships.
+
+All requests for leave must be arranged in advance, and are subject to approval by the lab administrator.
+
+## University Policy
+
+Graduate students do not accrue sick leave or vacation hours, and the ISU graduate student handbook states:
 
 > Arrangement for a leave of absence is made between the graduate assistant and that assistant’s supervisor adhering to all grant and other funding source restrictions. When a graduate assistant needs to be absent either for personal reasons or illness, the supervisor should be understanding and accommodating to that need. At the same time, the graduate assistant should attempt to plan personal leave so that it does not interfere with or cause neglect of the duties associated with his or her appointment. Supervisors of graduate assistants are responsible for ensuring that their assistants do not exceed reasonable limits for leave.
 
@@ -15,3 +21,9 @@ Further clarification on leave policy is offered by ISU's policy library:
 > Arrangements for a leave of absence are made between the graduate assistant and that assistant's supervisor. When a graduate student employee needs to be absent either for personal reasons or illness, the supervisor should be understanding and accommodating to that need. At the same time, the graduate assistant should attempt to plan personal leave so that it does not interfere with or cause neglect of the duties associated with his or her appointment. Supervisors of graduate assistants are responsible for ensuring that their assistants do not exceed reasonable limits for leave.
 
 [ISU Policy Library](http://www.policy.iastate.edu/policy/leave/vacation)
+
+## Remote Work
+
+The lab recognizes the need to spend time with family, and the hardships involved in international travel.  Reasonable
+accomidations will be made, if discussed in advance, for remote work arrangements during the holidays so long as students
+continue to demonstrate successful progress on all degree and assistantship objectives and deliverables.
