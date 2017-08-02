@@ -41,6 +41,13 @@ Use this section to describe roadblocks encountered when working towards your ob
 have slowed/stopped progress for last week, or which you forsee impeding progress in the near future.
 Be brief, but give all necessary details.
 
+## Accomplishments and Narrative
+
+Give a short, but descriptive, accounting for your accomplishments during the previous week while working
+towards your objectives and deliverables.
+
+Briefly discuss how you are progressing toward your trimester goals.
+
 ## Objectives for next week
 
 Set your objectives for next week.  What will you accomplish for next week?  Use *action verbs* to specify
