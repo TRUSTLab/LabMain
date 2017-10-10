@@ -1,0 +1,7 @@
+# Tool Tips
+
+## Setting up the FiSH shell
+
+* apt-get install fish
+* install omf https://github.com/oh-my-fish/oh-my-fish
+* install bobthefish https://github.com/oh-my-fish/theme-bobthefish

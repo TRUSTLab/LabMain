@@ -8,3 +8,22 @@ Weekly progress reports are designed to help students understand their progress 
 goals, and to help clear road blocks and mitigate risks which are encountered during the natural course of scientific
 discovery.  Science involves exploring the unknown, nothing ever goes smoothly.  The key to a successful scientific career
 involves meticulous note taking, record keeping, and planning.
+
+## Organization
+
+Weekly reports will be committed to the lab-wide repository at: https://github.com/TRUSTLab/LabInternal
+
+You will find the current directory structure:
+```
+GRAReports/
+HonorsReports/
+IndependentStudyReports/
+UGRAReports/
+```
+
+Each folder serves as a repository for Graduate Research Assistants, Honors students, Independent Study students, and Undergraduate Research Assistants respectively.  Within the appropriate top-level folder create a new subfolder with your username, for example a new PhD student would create:
+
+```
+GRAReports/
+	↳ username/
+```
