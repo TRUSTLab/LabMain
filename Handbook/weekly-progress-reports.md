@@ -36,3 +36,21 @@ GRAReports/
 	  ↳ 2025-09/
 	    ↳ username-2025-09-08.md
 ```
+
+### Archiving Reports
+
+At the end of each year create an archive folder:
+
+```
+GRAReports/
+	↳ username/
+	  ↳ YYYY-archive/
+```
+
+and move all directories from the previous year into the archive directory.  When you graduate you will archive your directory as well in:
+
+```
+GRAReports/
+	↳ archive/
+	  ↳ username/
+```
