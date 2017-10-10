@@ -27,3 +27,12 @@ Each folder serves as a repository for Graduate Research Assistants, Honors stud
 GRAReports/
 	↳ username/
 ```
+
+Within your username's directory create a subdirectory for every new month, when it occurs in the format `YYYY-MM` so September of 2025 would be `2025-09`.  Name your weekly reports using the scheme `username-YYYY-MM-DD.md`.  So if your meeting was on September 8th, 2025, on September 7th, or before, you would create a file `username-2025-09-08.md` in the appropriate directory with your weekly report:
+
+```
+GRAReports/
+	↳ username/
+	  ↳ 2025-09/
+	    ↳ username-2025-09-08.md
+```
